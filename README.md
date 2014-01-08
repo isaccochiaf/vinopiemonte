@@ -1,0 +1,4 @@
+vinopiemonte
+============
+
+Responsive infographic
